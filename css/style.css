@@ -1,0 +1,104 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+
+body {
+background-color: #f5f7fa;
+padding: 20px;
+}
+.mcont {
+    background:  #ffffff;
+    display: flex;
+    
+}
+
+.sidebar {
+    background-color: #1e2939;
+    width: 370px; 
+    padding-top: 40px;
+    padding-bottom: 40px;        
+    }
+
+.my-Photo {
+    width: 370px;
+} 
+
+.cont {    color: white;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
+
+li {
+    color: #595959;
+
+font-family: Montserrat;
+
+font-size: 14px;
+
+font-weight: 400;
+
+line-height: 24px;
+
+}
+
+.h44 {color: #a8a8a8;
+
+    font-family: Montserrat;
+    
+    font-size: 12px;
+    
+    font-weight: 400;
+    
+    line-height: 24px;
+
+}
+.about-me-container {
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-bottom: 110px;
+    padding-top: 110px;
+}
+.cont12{    color: white;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;    
+}
+.cont11{
+    color: #ff6b08;
+;
+}
+.c2{
+    color: #ff6b08;
+ }
+ .name{
+   margin-bottom: 25px;
+   margin-top: 25px;
+    
+    color: #000000;
+    
+    font-family: Montserrat;
+    
+    font-size: 45px;
+    
+    font-weight: 700;
+    
+    line-height: 89px;
+ }
+ .hh{
+    font-size: 22px;
+
+    font-weight: 700;
+   
+    line-height: 24px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+ }
+ .hhh{
+     margin-bottom: 20px;
+     margin-top: 20px;
+ }
+ 
